@@ -1,0 +1,12 @@
+# C Compilation Outputs
+*.o
+*.out
+*.exe
+a.out
+
+# Editor Configuration
+.vscode/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
